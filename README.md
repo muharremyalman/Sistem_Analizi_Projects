@@ -24,6 +24,6 @@ Kullanıcı ara yüzlerini tasarlamak.<br>
 -Sistem kontrollerini tasarlamak.<br>
 -Destek evresinde yapılacaklar için plan belirlemek** <br>
 ## Bilgilendirme
-**Yaptığımız çalışmaya 2.pdf sayfasından,ödevin detaylarına 1.pdf sayfasından ulaşabilirsiniz**
+**Yaptığımız çalışmaya 2.pdf sayfasından,ödevin detaylarına 1.pdf sayfasından ulaşabilirsiniz**<br>
 **Yaptığımız çalışmaya yaklaşık 2 ayımızı aldı**
 
