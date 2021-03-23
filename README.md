@@ -1,4 +1,3 @@
-# Sistem_Analizi_Projects
 # YBS Sistem Analizi Ve Tasarımı Dersi Grup Dönem Sonu Projesi
 ## Projenin Amacı
 **Özel Sevgi Hastaneleri adı altında 12 yıldır sağlık sektöründe hizmet veren,hastane yönetiminin
